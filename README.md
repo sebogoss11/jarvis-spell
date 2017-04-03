@@ -5,6 +5,8 @@ Ce plugin à besoin :
 ## Description
 Plugin qui permet de demander à JARVIS d'épeler un mot ou une phrase
 
+L'orthographe et la grammaire sont gérés par l'API "Bing Speech API" qui retourne sous forme manuscrite se que l'auteur dit oralement.
+
 ## Usage
 ```
 You: Comment écrit-on ornithorynque ?
