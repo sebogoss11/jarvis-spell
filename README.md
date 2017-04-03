@@ -29,4 +29,4 @@ Par exemple le 'e' est prononcé 'é', 'y' prononcé 'i'.
 Ils sont donc écrits 'eux' et 'y grec'.
 
 ## Author
-[RobyBioloid](https://github.com/RobyBioloid/jarvis-calendar)
+[RobyBioloid](https://github.com/RobyBioloid/jarvis-spell)
