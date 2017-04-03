@@ -1,1 +1,2 @@
 
+*COMMENT*ECRIT*ON(*)==echo "$order" > ~/jarvis/plugins/jarvis-spell/python/spell.txt && jv_spell_spell
