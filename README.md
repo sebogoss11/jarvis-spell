@@ -24,7 +24,7 @@ Jarvis: u
 Jarvis: eux
 ```
 
-Certaine lettre sont mal prononcé par la synthese vocale.
+Certaines lettres sont mal prononcées par la synthese vocale.
 Par exemple le 'e' est prononcé 'é', 'y' prononcé 'i'.
 Ils sont donc écrits 'eux' et 'y grec'.
 
