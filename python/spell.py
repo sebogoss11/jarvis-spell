@@ -3,7 +3,7 @@ import os
 
 
 def spell() :
-    path = os.getcwd() + "/plugins/jarvis-spell/python/spell.txt"
+    path = os.getcwd() + "/plugins_installed/jarvis-spell/python/spell.txt"
     file = open(path)
     line = file.readline()
 
