@@ -1,1 +1,5 @@
+COMMENT*ECRIRE (*)==echo "$order" > ~/jarvis/plugins_installed/jarvis-spell/python/spell.txt && jv_spell_spell
 COMMENT*ECRIT*ON (*)==echo "$order" > ~/jarvis/plugins_installed/jarvis-spell/python/spell.txt && jv_spell_spell
+COMMENT*ON*ECRIT (*)==echo "$order" > ~/jarvis/plugins_installed/jarvis-spell/python/spell.txt && jv_spell_spell
+EPPELLE*MOI*LE*MOT (*)==echo "$order" > ~/jarvis/plugins_installed/jarvis-spell/python/spell.txt && jv_spell_spell
+EPPELLE*MOI (*)==echo "$order" > ~/jarvis/plugins_installed/jarvis-spell/python/spell.txt && jv_spell_spell
